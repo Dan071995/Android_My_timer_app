@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.MaterialComponents.Button.OutlinedButton.myCustomButtonStyle">
+        <item name="strokeColor">?attr/colorPrimary</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
